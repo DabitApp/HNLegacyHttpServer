@@ -1,1 +1,1 @@
-# HNLegacyHttpServer
+# HNLegacyHttpServer v1.0
